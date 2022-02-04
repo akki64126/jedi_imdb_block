@@ -1,4 +1,4 @@
 # jedi_imdb_block
-Download the files
-Put them in same folder
-Open the index.html file in your browser.
+1. Download the files
+2. Put them in same folder
+3. Open the index.html file in your browser.
